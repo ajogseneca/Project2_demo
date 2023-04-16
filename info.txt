@@ -1,6 +1,0 @@
-1.	pip install poetry
-2.	poetry new my_project
-3.	Add any dependencies or use poetry add “name of dependency”
-4.	poetry install -> creats the virtual environment
-5.	Ensure this is command is run to make sure environment is created in same directory poetry config virtualenvs.in-project true
-6.	Run poetry shell to get into the environment

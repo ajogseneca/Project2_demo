@@ -25,3 +25,5 @@ There are several ways you can use poetry to publish the package such as PyPI, p
 We can easily build and publish using poetry using poetry
 Some commands are `poetry build`. to actually build the package and finally `poetry publish <the method you want to publish>`
 
+## References
+https://youtu.be/0f3moPe_bhk
