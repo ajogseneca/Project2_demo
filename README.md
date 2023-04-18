@@ -19,11 +19,7 @@ Make sure you have Python and Poetry installed on your system.
 
 You're now ready to start coding in your Python project with all dependencies installed in your virtual environment!
 
-<<<<<<< HEAD
-## Publishig 
-=======
 ## Publishig with the help of Poetry
->>>>>>> f9e61dbf6ebcde441008ad1a1d28025a026a5582
 
 There are several ways you can use poetry to publish the package such as PyPI, publish to private repos etc.
 We can easily build and publish using poetry using poetry
