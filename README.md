@@ -10,6 +10,7 @@ Make sure you have Python and Poetry installed on your system.
 
 1.  Install Poetry by running `pip install poetry`.
 2.  Create a new project with `poetry new my_project`.
+![image](https://user-images.githubusercontent.com/97509993/232647870-56792098-23e9-4300-8ede-ffc3d599747f.png)
 3.  Add any dependencies you need using `poetry add <dependency_name>`.
 4.  Install dependencies using `poetry install` command, which creates a virtual environment.
 5.  Ensure that the virtual environment is created in the same directory as the project by running `poetry config virtualenvs.in-project true`.
